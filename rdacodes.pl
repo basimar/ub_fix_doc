@@ -777,4 +777,5 @@ our %code655 = (
 "Photographie" => "Fotografie",
 "Schriftenreihe" => "Monografische Reihe",
 "Wörterbuch <mehrsprachig>" => "Mehrsprachiges Wörterbuch",
+"Wörterbuch (mehrsprachig)" => "Mehrsprachiges Wörterbuch",
 );
